@@ -12,5 +12,7 @@ class Inventario extends Model
         'nombre',
         'precio',
         'cantidad',
+        'color',
         ];
+        
 }
